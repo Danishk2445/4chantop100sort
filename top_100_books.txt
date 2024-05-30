@@ -1,0 +1,261 @@
+1. moby dick - 990 points
+2. the brothers karamazov - 974 points
+3. lolita - 940 points
+4. crime and punishment - 940 points
+5. ulysses - 937 points
+6. don quixote - 930 points
+7. infinite jest - 929 points
+8. blood meridian - 902 points
+9. the bible - 901 points
+10. gravity's rainbow - 892 points
+11. stoner - 891 points
+12. the stranger - 847 points
+13. the iliad - 830 points
+14. anna karenina - 820 points
+15. the divine comedy - 819 points
+16. ficciones - 803 points
+17. war and peace - 801 points
+18. the odyssey - 778 points
+19. 1984 - 763 points
+20. in search of lost time - 735 points
+21. one hundred years of solitude - 699 points
+22. hamlet - 689 points
+23. the master and margarita - 685 points
+24. 2666 - 681 points
+25. dubliners - 665 points
+26. the catcher in the rye - 638 points
+27. notes from underground - 626 points
+28. catch-22 - 610 points
+29. the book of disquiet - 607 points
+30. faust - 596 points
+31. the trial - 564 points
+32. the book of the new sun - 556 points
+33. the sound and the fury - 535 points
+34. a portrait of the artist as a young man - 534 points
+35. the lord of the rings - 533 points
+36. paradise lost - 508 points
+37. thus spoke zarathustra - 495 points
+38. east of eden - 480 points
+39. journey to the end of the night - 476 points
+40. the metamorphosis - 465 points
+41. the idiot - 465 points
+42. the republic - 459 points
+43. the count of monte cristo - 452 points
+44. the recognitions - 438 points
+45. a confederacy of dunces - 436 points
+46. mason & dixon - 432 points
+47. siddhartha - 422 points
+48. the picture of dorian gray - 389 points
+49. brave new world - 389 points
+50. the magic mountain - 385 points
+51. pale fire - 381 points
+52. hunger - 371 points
+53. les miserables - 365 points
+54. meditations - 349 points
+55. v. - 348 points
+56. steppenwolf - 338 points
+57. no longer human - 337 points
+58. heart of darkness - 333 points
+59. dune - 323 points
+60. american psycho - 310 points
+61. slaughterhouse-five - 302 points
+62. the great gatsby - 294 points
+63. the savage detectives - 281 points
+64. invisible cities - 272 points
+65. the crying of lot 49 - 256 points
+66. demons - 255 points
+67. wuthering heights - 249 points
+68. to the lighthouse - 248 points
+69. the old man and the sea - 240 points
+70. pedro paramo - 239 points
+71. the sailor who fell from grace with the sea - 238 points
+72. finnegans wake - 227 points
+73. the waves - 210 points
+74. confessions - 206 points
+75. white noise - 201 points
+76. absalom, absalom! - 197 points
+77. the sun also rises - 195 points
+78. madame bovary - 178 points
+79. the hobbit - 176 points
+80. capital - 167 points
+81. mein kampf - 167 points
+82. as i lay dying - 166 points
+83. the man without qualities - 163 points
+84. jr - 151 points
+85. the trilogy - 150 points
+86. storm of steel - 149 points
+87. if on a winter's night a traveler - 148 points
+88. critique of pure reason - 148 points
+89. the tunnel - 135 points
+90. the reign of quantity - 132 points
+91. the grapes of wrath - 129 points
+92. jerusalem - 125 points
+93. naked lunch - 122 points
+94. industrial society and its future - 114 points
+95. phenomenology of spirit - 113 points
+96. a hero of our time - 111 points
+97. the posthumous memoirs of bras cubas - 111 points
+98. the tartar steppe - 110 points
+99. tristram shandy - 109 points
+100. essays - 109 points
+101. bhagavad gita - 108 points
+102. process and reality - 107 points
+103. the pale king - 104 points
+104. alice's adventures in wonderland - 104 points
+105. dead souls - 103 points
+106. antifragile - 98 points
+107. the elementary particles - 97 points
+108. harry potter - 95 points
+109. correction - 94 points
+110. first folio - 94 points
+111. the quran - 93 points
+112. growth of the soil - 92 points
+113. fear and loathing in las vegas - 91 points
+114. the adventures of huckleberry finn - 91 points
+115. letters from a stoic - 91 points
+116. atomised - 88 points
+117. the gormenghast trilogy - 88 points
+118. the aeneid - 85 points
+119. london bridge - 84 points
+120. frankenstein - 82 points
+121. platonic dialogues - 80 points
+122. animal farm - 78 points
+123. ubu roi - 75 points
+124. kokoro - 73 points
+125. the temple of the golden pavilion - 72 points
+126. the making of americans - 72 points
+127. suttree - 71 points
+128. blindsight - 71 points
+129. for whom the bell tolls - 69 points
+130. the sorrows of young werther - 68 points
+131. sons and lovers - 68 points
+132. the plague - 66 points
+133. the ring of the nibelung - 66 points
+134. a farewell to arms - 63 points
+135. leaves of grass - 63 points
+136. against nature - 63 points
+137. being and time - 63 points
+138. fear and trembling - 60 points
+139. the silmarillion - 59 points
+140. a clockwork orange - 58 points
+141. fahrenheit 451 - 55 points
+142. story of the eye - 55 points
+143. spring snow - 55 points
+144. the death of ivan ilyich - 53 points
+145. do androids dream of electric sheep? - 50 points
+146. kafka on the shore - 50 points
+147. ferdydurke - 50 points
+148. gargantua and pantagruel - 50 points
+149. the castle - 48 points
+150. the rings of saturn - 47 points
+151. the secret history - 47 points
+152. middlemarch - 46 points
+153. my diary desu - 46 points
+154. on the road - 44 points
+155. valis - 44 points
+156. the name of the rose - 44 points
+157. candide - 44 points
+158. satantango - 44 points
+159. of mice and men - 43 points
+160. on the heights of despair - 42 points
+161. molloy - 41 points
+162. take five - 41 points
+163. ubik - 40 points
+164. bottom's dream - 40 points
+165. metamorphoses - 40 points
+166. the decline of the west - 40 points
+167. solaris - 39 points
+168. tropic of cancer - 39 points
+169. the unconsoled - 39 points
+170. nausea - 38 points
+171. the passion according to g.h. - 38 points
+172. a canticle for leibowitz - 38 points
+173. lord of the flies - 36 points
+174. king lear - 36 points
+175. under the volcano - 36 points
+176. the gulag archipelago - 36 points
+177. beyond good and evil - 36 points
+178. phenomenology of perception - 36 points
+179. the fall - 35 points
+180. watership down - 35 points
+181. ada, or ardor: a family chronicle - 35 points
+182. fanged noumena - 35 points
+183. siren of titan - 34 points
+184. sometimes a great notion - 34 points
+185. histoire de charles xii - 34 points
+186. the histories - 34 points
+187. lost illusions - 33 points
+188. the road - 32 points
+189. light in august - 31 points
+190. confessions of a mask - 31 points
+191. the ego and his own - 30 points
+192. foucault's pendulum - 30 points
+193. the epic of gilgamesh - 30 points
+194. walden - 29 points
+195. the world as will and representation - 29 points
+196. roadside picnic - 28 points
+197. oblomov - 28 points
+198. summa theologica - 28 points
+199. the golden bowl - 28 points
+200. franny and zooey - 27 points
+201. voss - 27 points
+202. trilogy - 27 points
+203. the anatomy of melancholy - 26 points
+204. malone dies - 25 points
+205. the faerie queene - 25 points
+206. zhuangzi - 25 points
+207. dandelion wine - 24 points
+208. pan - 24 points
+209. cannery row - 23 points
+210. darconville's cat - 23 points
+211. atlas shrugged - 23 points
+212. a tale of two cities - 22 points
+213. the canterbury tales - 22 points
+214. the glass bead game - 22 points
+215. the wasp factory - 21 points
+216. extinction - 21 points
+217. the death of virgil - 20 points
+218. the aleph - 19 points
+219. the leopard - 19 points
+220. the changing light at sandover - 19 points
+221. libra - 19 points
+222. the bell jar - 19 points
+223. macbeth - 17 points
+224. the major works - 16 points
+225. oresteia - 16 points
+226. hopscotch - 15 points
+227. the opposing shore - 15 points
+228. fight club - 14 points
+229. the remains of the day - 14 points
+230. arcades project - 14 points
+231. the portrait of a lady - 14 points
+232. the confidence-man - 13 points
+233. the red and the black - 12 points
+234. hitchhiker's guide to the galaxy - 11 points
+235. society of the spectacle - 11 points
+236. mrs dalloway - 11 points
+237. the fountainhead - 11 points
+238. ethics - 11 points
+239. the flowers of evil - 10 points
+240. the waste land - 10 points
+241. the prince - 10 points
+242. salammbo - 10 points
+243. trifles for a massacre - 9 points
+244. othello - 9 points
+245. buddenbrooks - 7 points
+246. the cantos - 7 points
+247. the illuminatus! trilogy - 6 points
+248. 60 stories - 6 points
+249. tao te ching - 6 points
+250. the good earth - 5 points
+251. ada - 5 points
+252. raise high the roof beam, carpenter - 5 points
+253. neuromancer - 4 points
+254. anabasis - 4 points
+255. the unbearable lightness of being - 3 points
+256. cryptonomicon - 3 points
+257. i am a cat - 2 points
+258. a scanner darkly - 2 points
+259. life and fate - 2 points
+260. zeno's conscience - 1 points
+261. augustus - 1 points
