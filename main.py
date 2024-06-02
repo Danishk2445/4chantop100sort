@@ -17,3 +17,4 @@ top_100_books = combined_list[:]
 with open('top_100_books.txt', 'w') as output_file:
     for rank, (book, score) in enumerate(top_100_books, start=1):
         output_file.write(f"{rank}. {book} - {score} points\n")
+#hi
